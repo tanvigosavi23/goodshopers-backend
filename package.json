@@ -1,0 +1,29 @@
+{
+  "name": "goodshopers-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon goodshopers-backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvigosavi23/goodshopers-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanvigosavi23/goodshopers-backend/issues"
+  },
+  "homepage": "https://github.com/tanvigosavi23/goodshopers-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12",
+    "nodemon": "^3.0.2"
+  }
+}
